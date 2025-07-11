@@ -1,0 +1,22 @@
+# SASS cache
+.sass-cache/
+*.css.map
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Security
+dbconnection.php
+.env
+
+# Logs
+*.log
+
+# Composer or Node (if used)
+vendor/
+node_modules/
